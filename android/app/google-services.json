@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "483900241472",
+    "project_id": "erp-test-979d7",
+    "storage_bucket": "erp-test-979d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483900241472:android:036231815c911ef4fb51a5",
+        "android_client_info": {
+          "package_name": "com.example.test_eep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4iEpx9b67vgMMLklNItnZ_y7gfP6wook"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483900241472:android:54145f40a15d51bbfb51a5",
+        "android_client_info": {
+          "package_name": "com.mycompany.erptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4iEpx9b67vgMMLklNItnZ_y7gfP6wook"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
